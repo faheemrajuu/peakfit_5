@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+type: software
+title: "q-space pseudo-Voigt peak fitting and crystallinity metrics for SAXS/WAXS"
+authors:
+  - family-names: Hassan
+    given-names: Muhammad Faheem
+    orcid: "https://orcid.org/0000-0002-0829-466X"
+year: 2026
+license: MIT
+repository-code: "https://github.com/faheemrajuu/Peak_Detection"
+doi: 
+date first release: 02/08/2026
+keywords:
+  •	xray-scattering
+	•	saxs
+	•	waxs
+	•	peak-fitting
+	•	pseudo-voigt
+	•	plotly
+	•	python
+	•	data-analysis
+
+acknowledgements: "Development of this software was supported by research funding from Prof. Mu-Ping Nieh’s lab (University of Connecticut)."
